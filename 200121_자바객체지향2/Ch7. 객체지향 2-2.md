@@ -96,3 +96,21 @@ __반대로 자손타입의 참조변수로 조상타입의 인스턴스를 참�
 
 ### 5.4 참조변수와 인스턴스변수의 연결
 
+![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\34.PNG)
+
+
+
+### 5.5 매개변수의 다항성
+
+![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\35.PNG)
+
+
+
+### 5.6 여러 종류의 객체를 하나의 배열로 다루기
+
+![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\36.PNG)
+
+![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\37.PNG)
+
+![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\38.PNG)
+
