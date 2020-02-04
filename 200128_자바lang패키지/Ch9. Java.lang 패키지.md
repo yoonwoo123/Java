@@ -68,3 +68,35 @@ System.identiyHashCode(Object obj) 는 자주 사용하는 함수는 아니므�
 
  ![](C:\Users\IBK\Desktop\Java\200128_자바lang패키지\capture\13.PNG)
 
+
+
+### 3.1 StringBuffer클래스의 특징
+
+![](C:\Users\IBK\Desktop\Java\200128_자바lang패키지\capture\14.PNG)
+
+
+
+### 3.2 StringBuffer 클래스의 생성자와 메서드
+
+![](C:\Users\IBK\Desktop\Java\200128_자바lang패키지\capture\15.PNG)
+
+![](C:\Users\IBK\Desktop\Java\200128_자바lang패키지\capture\16.PNG)
+
+
+
+### 4.1 Math클래스
+
+![](C:\Users\IBK\Desktop\Java\200128_자바lang패키지\capture\17.PNG)
+
+
+
+### 4.2 wrapper 클래스
+
+![](C:\Users\IBK\Desktop\Java\200128_자바lang패키지\capture\18.PNG)
+
+
+
+### 4.3 Number 클래스
+
+![](C:\Users\IBK\Desktop\Java\200128_자바lang패키지\capture\19.PNG)
+
