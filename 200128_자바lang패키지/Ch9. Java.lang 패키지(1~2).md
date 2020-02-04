@@ -38,3 +38,33 @@ System.identiyHashCode(Object obj) 는 자주 사용하는 함수는 아니므�
 
 
 
+### 2.1 String클래스의 특징
+
+![](C:\Users\IBK\Desktop\Java\200128_자바lang패키지\capture\7.PNG)
+
+
+
+### 2.2 빈 문자열
+
+![](C:\Users\IBK\Desktop\Java\200128_자바lang패키지\capture\8.PNG)
+
+
+
+### 2.3 String클래스의 생성자와 메서드
+
+![](C:\Users\IBK\Desktop\Java\200128_자바lang패키지\capture\9.PNG)
+
+![](C:\Users\IBK\Desktop\Java\200128_자바lang패키지\capture\10.PNG)
+
+![](C:\Users\IBK\Desktop\Java\200128_자바lang패키지\capture\11.PNG)
+
+
+
+### 2.4 문자열과 기본형간의 변환
+
+![](C:\Users\IBK\Desktop\Java\200128_자바lang패키지\capture\12.PNG)
+
+### 예제
+
+ ![](C:\Users\IBK\Desktop\Java\200128_자바lang패키지\capture\13.PNG)
+
