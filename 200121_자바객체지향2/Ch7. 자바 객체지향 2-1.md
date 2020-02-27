@@ -37,12 +37,12 @@
 - 공통부분은 조상에서 관리하고 개별부분은 자손에서 관리한다.
 - 조상의 변경은 자손에 영향을 미치지만, 자손의 변경은 조상에 아무런 영향을 미치지 않는다.
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\1.PNG)
+![](./capture/1.PNG)
 
 - 포함이란 ?
   - 한 클래스의 멤머변수로 다른 클래스를 선언하는 것
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\2.PNG)
+![](./capture/2.PNG)
 
 
 
@@ -51,9 +51,9 @@
 - 가능한 한 많은 관계를 맺어주어 재사용성을 높이고 관리하기 쉽게 한다.
 - 'is-a'와 'has-a'를 가지고 문장을 만들어본다.
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\3.PNG)
+![](./capture/3.PNG)
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\4.PNG)
+![](./capture/4.PNG)
 
 
 ### 1.4 단일상속
@@ -66,19 +66,19 @@
   }
   ```
 
-  ![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\5.PNG)
+  ![](./capture/5.PNG)
 
 
 
 ### 1.5 Object클래스 - 모든 클래스의 최고조상
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\6.PNG)
+![](./capture/6.PNG)
 
 ### 2.1 오버라이딩이란?
 
 - 조상클래스로부터 상속받은 메서드의 내용을 상속받는 클래스에 맞게 변경하는 것을 오버라이딩이라고 한다.
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\7.PNG)
+![](./capture/7.PNG)
 
 
 
@@ -90,7 +90,7 @@
    - 조상의 메서드가 protected라면, 범위가 같거나 넓은 protected나 public으로만 변경할 수있다.
 3. 조상클래스의 메서드보다 많은 수의 예외를 선언할 수 없다.
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\8.PNG)
+![](./capture/8.PNG)
 
 
 
@@ -99,27 +99,27 @@
 - 오버로딩 - 기존에 없는 새로운 메서드를 정의하는 것 (new)
 - 오버라이딩 - 상속받은 메서드의 내용을 변경하는 것 ( change, modify )
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\9.PNG)
+![](./capture/9.PNG)
 
 
 
 ### 2.4 super - 참조변수
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\10.PNG)
+![](./capture/10.PNG)
 
 
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\11.PNG)
+![](./capture/11.PNG)
 
 
 
 ### 2.5 super() - 조상의 생성자
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\12.PNG)
+![](./capture/12.PNG)
 
 
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\13.PNG)
+![](./capture/13.PNG)
 
 
 
@@ -137,29 +137,29 @@
 
   (JDK설치경로\jre\lib에 위치)
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\14.PNG)
+![](./capture/14.PNG)
 
 
 
 ### 3.2 패키지의 선언
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\15.PNG)
+![](./capture/15.PNG)
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\16.PNG)
+![](./capture/16.PNG)
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\17.PNG)
+![](./capture/17.PNG)
 
 
 
 ### 3.4 import문
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\18.PNG)
+![](./capture/18.PNG)
 
 
 
 ### 3.5 import문의 선언
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\19.PNG)
+![](./capture/19.PNG)
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\20.PNG)
+![](./capture/20.PNG)
 

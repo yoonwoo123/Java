@@ -101,7 +101,7 @@ System.out.println(t1.channel); // 7 출력
 System.out.println(t2.channel); // 마찬가지로 7 출력
 ```
 
-![](C:\Users\IBK\Desktop\Java\200119_자바객체지향\capture\1.PNG)
+![](./capture/1.PNG)
 
 
 
@@ -117,9 +117,9 @@ System.out.println(t2.channel); // 마찬가지로 7 출력
    - 프로그래머가 직접 새로운 타입을 정의할 수 있다.
    - 서로 관련된 값을 묶어서 하나의 타입으로 정의한다.
 
-![](C:\Users\IBK\Desktop\Java\200119_자바객체지향\capture\2.PNG)
+![](./capture/2.PNG)
 
-![](C:\Users\IBK\Desktop\Java\200119_자바객체지향\capture\3.PNG)
+![](./capture/3.PNG)
 
 
 
@@ -127,7 +127,7 @@ System.out.println(t2.channel); // 마찬가지로 7 출력
 
 - 변수의 선언위치가 변수의 종류와 범위(scope)을 결정한다.
 
-![](C:\Users\IBK\Desktop\Java\200119_자바객체지향\capture\4.PNG)
+![](./capture/4.PNG)
 
 - 인스턴스 변수
   - 각 인스턴스의 개별적인 저장공간. 인스턴스마다 다른 값 저장가능
@@ -144,7 +144,7 @@ System.out.println(t2.channel); // 마찬가지로 7 출력
   - 메서드 내에 선언되며, 메서드의 종료와 함께 소멸
   - 조건문, 반복문의 블럭{} 내에 선언된 지역변수는 블럭을 벗어나면 소멸
 
-![](C:\Users\IBK\Desktop\Java\200119_자바객체지향\capture\5.PNG)
+![](./capture/5.PNG)
 
 ### 3.3 메서드
 
@@ -171,7 +171,7 @@ System.out.println(t2.channel); // 마찬가지로 7 출력
 
 - return문의 개수는 최소화하는 것이 좋다. 
 
-![](C:\Users\IBK\Desktop\Java\200119_자바객체지향\capture\6.PNG)
+![](./capture/6.PNG)
 
 
 
@@ -184,7 +184,7 @@ System.out.println(t2.channel); // 마찬가지로 7 출력
 - 힙
   - 인스턴스가 생성되는 공간. new 연산자에 의해서 생성되는 배열과 객체는 모두 여기에 생성된다.
 
-![](C:\Users\IBK\Desktop\Java\200119_자바객체지향\capture\7.PNG)
+![](./capture/7.PNG)
 
 
 
@@ -195,7 +195,7 @@ System.out.println(t2.channel); // 마찬가지로 7 출력
 - 호출스택의 제일 위에 있는 메서드가 현재 실행중인 메서드다.
 - 아래에 있는 메서드가 바로 위의 메서드를 호출한 메서드다.
 
-![](C:\Users\IBK\Desktop\Java\200119_자바객체지향\capture\8.PNG)
+![](./capture/8.PNG)
 
 
 
@@ -230,9 +230,9 @@ System.out.println(t2.channel); // 마찬가지로 7 출력
   - 메서드 내에서 인스턴스 변수 사용불가
   - 메서드 내에서 인스턴스변수를 사용하지 않는다면 static을 붙이는 것을 고려한다.
 
-![](C:\Users\IBK\Desktop\Java\200119_자바객체지향\capture\9.PNG)
+![](./capture/9.PNG)
 
-![](C:\Users\IBK\Desktop\Java\200119_자바객체지향\capture\10.PNG)
+![](./capture/10.PNG)
 
 
 

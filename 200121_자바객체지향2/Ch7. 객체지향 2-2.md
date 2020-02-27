@@ -16,49 +16,49 @@
 
 ### 4.2 static - 클래스의, 공통적인
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\21.PNG)
+![](./capture/21.PNG)
 
 
 
 ### 4.3 final - 마지막의, 변경될 수 없는
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\22.PNG)
+![](./capture/22.PNG)
 
 
 
 ### 4.4 생성자를 이용한 final 멤버변수 초기화
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\23.PNG)
+![](./capture/23.PNG)
 
 
 
 ### 4.5 abstract - 추상의, 미완성의
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\24.PNG)
+![](./capture/24.PNG)
 
 
 
 ### 4.6 접근 제어자(access modifier)
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\25.PNG)
+![](./capture/25.PNG)
 
 
 
 ### 4.7 접근 제어자를 이용한 캡슐화
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\26.PNG)
+![](./capture/26.PNG)
 
 
 
 ### 4.8 생성자의 접근 제어자
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\27.PNG)
+![](./capture/27.PNG)
 
 
 
 ### 4.9 제어자의 조합
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\28.PNG)
+![](./capture/28.PNG)
 
 
 
@@ -70,11 +70,11 @@
 
   즉, __조상타입의 참조변수로 자손타입의 객체를 다룰 수 있는 것이 다형성!__
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\29.PNG)
+![](./capture/29.PNG)
 
 
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\30.PNG)
+![](./capture/30.PNG)
 
 __반대로 자손타입의 참조변수로 조상타입의 인스턴스를 참조할 수는 없다.__
 
@@ -82,35 +82,35 @@ __반대로 자손타입의 참조변수로 조상타입의 인스턴스를 참�
 
 ### 5.2 참조변수의 형변환
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\31.PNG)
+![](./capture/31.PNG)
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\32.PNG)
+![](./capture/32.PNG)
 
 
 
 ### 5.3 instanceof연산자
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\33.PNG)
+![](./capture/33.PNG)
 
 
 
 ### 5.4 참조변수와 인스턴스변수의 연결
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\34.PNG)
+![](./capture/34.PNG)
 
 
 
 ### 5.5 매개변수의 다항성
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\35.PNG)
+![](./capture/35.PNG)
 
 
 
 ### 5.6 여러 종류의 객체를 하나의 배열로 다루기
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\36.PNG)
+![](./capture/36.PNG)
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\37.PNG)
+![](./capture/37.PNG)
 
-![](C:\Users\IBK\Desktop\Java\200121_자바객체지향2\capture\38.PNG)
+![](./capture/38.PNG)
 

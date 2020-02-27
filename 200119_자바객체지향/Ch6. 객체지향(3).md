@@ -28,7 +28,7 @@
 - 생성자의 이름은 클래스의 이름과 같아야 한다.
 - 생성자는 리턴값이 없다. (하지만 void를 쓰지 않는다.)
 
-![](C:\Users\IBK\Desktop\Java\200119_자바객체지향\capture\11.PNG)
+![](./capture/11.PNG)
 
 ### 5.3 기본 생성자
 
@@ -45,7 +45,7 @@
 
 ### 5.4 매개변수가 있는 생성자
 
-![](C:\Users\IBK\Desktop\Java\200119_자바객체지향\capture\12.PNG)
+![](./capture/12.PNG)
 
 
 
@@ -61,13 +61,13 @@
 
 - this - 인스턴스 자신을 가리키는 참조변수. 인스턴스의 주소가 저장되어있음 모든 인스턴스 메서드에 지역변수로 숨겨진 채로 존재
 
-![](C:\Users\IBK\Desktop\Java\200119_자바객체지향\capture\13.PNG)
+![](./capture/13.PNG)
 
 
 
 ### 5.7 생성자를 이용한 인스턴스의 복사
 
-![](C:\Users\IBK\Desktop\Java\200119_자바객체지향\capture\14.PNG)
+![](./capture/14.PNG)
 
 
 
@@ -77,7 +77,7 @@
 - 멤버변수(인스턴스변수, 클래스변수)와 배열은 각 타입의 기본값으로 자동초기화되므로 초기화를 생략할 수 있다.
 - 지역변수는 사용전에 꼭!!! 초기화를 해주어야 한다.
 
-![](C:\Users\IBK\Desktop\Java\200119_자바객체지향\capture\15.PNG)
+![](./capture/15.PNG)
 
 
 
@@ -85,7 +85,7 @@
 
 - 멤버변수의 초기화 방법
 
-  ![](C:\Users\IBK\Desktop\Java\200119_자바객체지향\capture\16.PNG)
+  ![](./capture/16.PNG)
 
 ### 6.3 초기화 블럭
 
@@ -93,11 +93,11 @@
 
 - 인스턴스 초기화 블럭 - 생성자에서 공통적으로 수행되는 작업에 사용되며 인스턴스가 생성될 때마다 (생성자보다 먼저) 실행된다.
 
-  ![](C:\Users\IBK\Desktop\Java\200119_자바객체지향\capture\17.PNG)
+  ![](./capture/17.PNG)
 
 ### 6.4 멤버변수의 초기화 시기와 순서
 
-![](C:\Users\IBK\Desktop\Java\200119_자바객체지향\capture\18.PNG)
+![](./capture/18.PNG)
 
-![](C:\Users\IBK\Desktop\Java\200119_자바객체지향\capture\19.PNG)
+![](./capture/19.PNG)
 

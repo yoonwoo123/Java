@@ -190,7 +190,7 @@ Math.round() : 소수점 첫째자리에서 반올림한 값(정수) 을 반환
 
 - XOR연산자(^):  피연산자가 서로 다를 때 1이다.
 
-![](C:\Users\IBK\Desktop\Java\200114_자바연산자\capture\1.PNG)
+![](./capture/1.PNG)
 
 
 
